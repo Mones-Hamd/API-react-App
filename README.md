@@ -7,4 +7,4 @@ simple  one hour App to practes on React.
 you can only search about movies .
 
 ### Movies Land photo
-<img src="https://github.com/Mones-Hamd/Movie-Land-App/commit/1d95d95b5709aa5b6c90e5c7062e7051dcd7607d" />
+<img src="https://raw.githubusercontent.com/Mones-Hamd/Movie-Land-App/main/my%20mobile%20v2%20view.jpg" />
