@@ -1,7 +1,7 @@
 # Movie-Land-App
 
 ### About:
-simple  one hour App to practes on React.
+simple  one hour App to practice using React.
 
 ### features :
 you can only search about movies .
